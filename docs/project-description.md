@@ -11,6 +11,8 @@ The calculator currently supports:
 - Addition
 - Subtraction
 - Multiplication
+- Division
+- Power
 
 The project will also demonstrate basic error handling for invalid calculator operations.
 

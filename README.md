@@ -1,12 +1,24 @@
 ## Git Practice Project
 
-### Student Name
-Mst. Maysha Khanom Moon
+### Student Information
 
-### Project Description
-This project is created to practice Git and GitHub fundamentals.
+**Name:** Your Name
 
-It demonstrates repository initialization, commits, branching, merging, and pushing code to GitHub.
+### About This Project
 
-### Program
-The Python program prints my name and today's date.
+This project demonstrates fundamental Git and GitHub operations using a simple Python calculator.
+
+### Features
+
+- Displays my name
+- Displays today's date
+- Adds two numbers
+- Subtracts two numbers
+- Multiplies two numbers
+- Handles invalid calculator input
+
+### Technologies
+
+- Python
+- Git
+- GitHub

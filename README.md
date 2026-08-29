@@ -2,7 +2,7 @@
 
 ### Student Information
 
-**Name:** Your Name
+**Name:** Mst. Maysha Khanom Moon
 
 ### About This Project
 

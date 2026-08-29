@@ -1,7 +1,21 @@
-### Project Description
+## Project Description
 
-This project is a simple Python-based Git practice project.
+This project was created as part of a Git and GitHub practical assignment.
 
-The purpose of the project is to demonstrate basic Git and GitHub operations such as creating commits, working with branches, merging branches, and pushing a local repository to GitHub.
+The project demonstrates how to initialize a Git repository, create commits, work with branches, merge branches, and push changes to GitHub.
 
-The project also contains a basic calculator with addition, subtraction, multiplication, and error handling.
+### Calculator Features
+
+The calculator currently supports:
+
+- Addition
+- Subtraction
+- Multiplication
+
+The project will also demonstrate basic error handling for invalid calculator operations.
+
+### Tools Used
+
+- Python
+- Git
+- GitHub
